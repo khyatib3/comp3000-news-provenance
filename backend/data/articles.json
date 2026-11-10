@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding News Provenance in the Digital Age",
+    "publish_date": "2026-11-10",
+    "author": "Jane Smith",
+    "platform": "Tech Daily"
+  },
+  {
+    "id": 2,
+    "title": "How to Spot AI-Generated Articles",
+    "publish_date": "2026-11-08",
+    "author": "Marcus Johnson",
+    "platform": "Cyber Weekly"
+  },
+  {
+    "id": 3,
+    "title": "The Evolution of Media Trust",
+    "publish_date": "2026-11-05",
+    "author": "Elena Rodriguez",
+    "platform": "Journalism Today"
+  }
+]
